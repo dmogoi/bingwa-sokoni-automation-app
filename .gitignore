@@ -1,0 +1,6 @@
+# APK files - exclude from git
+*.apk
+*.aab
+
+# Keep index.html and other non-binary files
+
